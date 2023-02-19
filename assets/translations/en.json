@@ -1,0 +1,80 @@
+{
+  "settingsTitle": "Settings",
+  "settingsSection1": "Account",
+  "settingsSection2": "Settings",
+  "settingsSubSection1": "Language",
+  "settingsSubSection2": "Notification",
+  "settingsSubSection3": "Dark Mode",
+  "settingsSubSection4": "Help",
+
+  "alertScreenTitle":  "Error",
+  "alertScreenMessage":  "AppException",
+  "alertBaseView":  "Неловкая ситуация, но лучше так",
+
+  "alertErrorViewBackgroundText": "ERROR",
+  "alertErrorViewCardTitle": "Oops! Something went wrong..",
+  "alertErrorViewCardBody": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent interdum odio et eros malesuada, in luctus lectus convallis. Nullam ut felis commodo, aliquam lectus at, lobortis lectus.",
+  "alertErrorViewBtnHeader": "Reload now",
+
+  "alertSuccessViewBackgroundText": "HURRAY",
+  "alertSuccessViewCardTitle":  "Congratulations!",
+  "alertSuccessViewCardBody":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent interdum odio et eros malesuada.",
+  "alertSuccessViewBtnHeader": "Go further",
+
+  "showAlertDialogDefaultActionText":  "OK",
+  "showNotImplementedDialogTitle": "Not implemented",
+
+  "loginFormsEmailTextFieldLabel":  "Email",
+  "loginFormsEmailValidationWrong": "Invalid email",
+  "loginFormsEmailValidationEmpty":"Email can`t be empty" ,
+
+  "registerFormsPasswordTextFieldLabel": "Password (8+ characters)",
+  "loginFormsPasswordTextFieldLabel": "Password",
+  "loginFormsPasswordValidationWrong": "Password is too short" ,
+  "loginFormsPasswordValidationEmpty": "Password can`t be empty" ,
+
+  "loginFormsNameTextFieldLabel": "Name",
+
+  "loginFormsPhoneTextFieldLabel": "Phone",
+  "loginFormsPhoneValidationWrong": "Invalid phone",
+  "loginFormsPhoneValidationEmpty": "Phone can`t be empty" ,
+
+  "loginFormsRegisterTextBtn":"Register",
+  "loginFormsLoginTextBtn":"Sign in",
+  
+  "loginFormsPrimaryBtn": "Create an account",
+  "registerFormsPrimaryBtn": "Sign in",
+
+  "loginFormsSecondaryBtn": "Need an account? Register",
+  "registerFormsSecondaryBtn": "Have an account? Sign in",
+
+  "loginFormsErrorAlertTitle":  "Sign in failed",
+
+  "registerFormsErrorAlertTitle":  "Registration failed",
+  
+  "loginFormsTitle":  "Sign in",
+  "registerFormsTitle":  "Register",
+  
+ "avatarCreatorViewSaveBtn" :"Save",
+  
+ "partTypeTitleBody": "Body",
+ "partTypeTitleHead":  "Head",
+ "partTypeTitleFace":  "Face",
+ "partTypeTitleFacialHair":  "Facial hair",
+ "partTypeTitleEyeAccessories":  "Eye accessories",
+ "partTypeTitleBackground":  "Background",
+  "roomTypeOnePlaceFirstFilter": "1-но местный номер",
+  "roomTypeOnePlaceSecondFilter": "1-но местный номер",
+  "roomTypeTwoPlacesFirstFilter": "2-х местная квартира",
+  "roomTypeTwoPlacesSecondFilter": "2-х местный номер",
+  "roomTypeThreePlacesFirstFilter": "3-х местная квартира",
+  "roomTypeThreePlacesSecondFilter": "3-х местный номер",
+  "roomTypeFourPlacesFirstFilter": "4-х местная квартира",
+  "roomTypeFourPlacesSecondFilter": "4-х местный номер",
+  "roomTypeFivePlacesFirstFilter": "5-ти местная квартира",
+  "roomTypeFivePlacesSecondFilter": "5-ти местный номер",
+  "roomTypeSixPlacesFirstFilter": "6-ти местная квартира",
+  "roomTypeSixPlacesSecondFilter": "6-ти местный номер",
+  "roomTypeNonTypicalFirstFilter": "Не типовое размещение",
+  "roomTypeNonTypicalSecondFilter": "Не типовое размещение"
+}

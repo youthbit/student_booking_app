@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "753109830273",
+    "project_id": "youthbit-377523",
+    "storage_bucket": "youthbit-377523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753109830273:android:10614e85efb486dd229b80",
+        "android_client_info": {
+          "package_name": "com.example.youthbit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753109830273-o9huht9k06hppae8s8s1986qpj7s0pai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCytFsWqVFilqqp9xNiw73GJ9rPK0DZLXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753109830273-o9huht9k06hppae8s8s1986qpj7s0pai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753109830273-pa327a063vj75v0k3992gof5r6t2kall.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.druzhba.youthbit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,80 @@
+{
+  "settingsTitle": "Настройки",
+  "settingsSection1": "Аккаунт",
+  "settingsSection2": "Настройки",
+  "settingsSubSection1": "Язык",
+  "settingsSubSection2": "Уведомления",
+  "settingsSubSection3": "Темная тема",
+  "settingsSubSection4": "Помощь",
+
+  "alertScreenTitle":  "Ошибка",
+  "alertScreenMessage":  "Внутренняя ошибка",
+  "alertBaseView":  "Неловкая ситуация, но лучше так",
+
+  "alertErrorViewBackgroundText": "ОШИБКА",
+  "alertErrorViewCardTitle": "Что-то пошо не так..",
+  "alertErrorViewCardBody": "Заглушка с полезной информацией об ошибке.",
+  "alertErrorViewBtnHeader": "Перезапуск",
+
+  "alertSuccessViewBackgroundText": "УРРРРА",
+  "alertSuccessViewCardTitle":  "Поздравления!",
+  "alertSuccessViewCardBody":"Заглушка текст ты молодец.",
+  "alertSuccessViewBtnHeader": "Далее",
+
+  "showAlertDialogDefaultActionText":  "OK",
+  "showNotImplementedDialogTitle": "Не реализовано",
+
+  "loginFormsEmailTextFieldLabel":  "Почта",
+  "loginFormsEmailValidationWrong": "Неверная почта",
+  "loginFormsEmailValidationEmpty":"Почта пустая" ,
+
+  "registerFormsPasswordTextFieldLabel": "Пароль (8+ символов)",
+  "loginFormsPasswordTextFieldLabel": "Пароль",
+  "loginFormsPasswordValidationWrong": "Слишком короткий" ,
+  "loginFormsPasswordValidationEmpty": "Пустой" ,
+
+  "loginFormsNameTextFieldLabel": "Имя",
+
+  "loginFormsPhoneTextFieldLabel": "Телефон",
+  "loginFormsPhoneValidationWrong": "Неверный телефон",
+  "loginFormsPhoneValidationEmpty": "Пустой" ,
+
+  "loginFormsRegisterTextBtn":"Регистрация",
+  "loginFormsLoginTextBtn":"Вход",
+  
+  "loginFormsPrimaryBtn": "Создать аккаунт",
+  "registerFormsPrimaryBtn": "Войти",
+
+  "loginFormsSecondaryBtn": "Нет аккаунта? Зарегистрироваться",
+  "registerFormsSecondaryBtn": "Есть аккаунт? Войти",
+
+  "loginFormsErrorAlertTitle":  "Не удалось войти",
+
+  "registerFormsErrorAlertTitle":  "Не удалось зарегистрироваться",
+  
+  "loginFormsTitle":  "Войти",
+  "registerFormsTitle":  "Зарегистрироваться",
+  
+ "avatarCreatorViewSaveBtn" :"Сохранить",
+  
+ "partTypeTitleBody": "Тело",
+ "partTypeTitleHead":  "Голова",
+ "partTypeTitleFace":  "Лицо",
+ "partTypeTitleFacialHair":  "Борода",
+ "partTypeTitleEyeAccessories":  "Аксессуары",
+ "partTypeTitleBackground":  "Фон",
+  "roomTypeOnePlaceFirstFilter": "1-но местный номер",
+  "roomTypeOnePlaceSecondFilter": "1-но местный номер",
+  "roomTypeTwoPlacesFirstFilter": "2-х местная квартира",
+  "roomTypeTwoPlacesSecondFilter": "2-х местный номер",
+  "roomTypeThreePlacesFirstFilter": "3-х местная квартира",
+  "roomTypeThreePlacesSecondFilter": "3-х местный номер",
+  "roomTypeFourPlacesFirstFilter": "4-х местная квартира",
+  "roomTypeFourPlacesSecondFilter": "4-х местный номер",
+  "roomTypeFivePlacesFirstFilter": "5-ти местная квартира",
+  "roomTypeFivePlacesSecondFilter": "5-ти местный номер",
+  "roomTypeSixPlacesFirstFilter": "6-ти местная квартира",
+  "roomTypeSixPlacesSecondFilter": "6-ти местный номер",
+  "roomTypeNonTypicalFirstFilter": "Не типовое размещение",
+  "roomTypeNonTypicalSecondFilter": "Не типовое размещение"
+}

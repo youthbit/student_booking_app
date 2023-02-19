@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>753109830273-pa327a063vj75v0k3992gof5r6t2kall.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.753109830273-pa327a063vj75v0k3992gof5r6t2kall</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8D9TTM1OvGI_HPRoFieFPvaDZMuHhHhE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>753109830273</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.druzhba.youthbit</string>
+	<key>PROJECT_ID</key>
+	<string>youthbit-377523</string>
+	<key>STORAGE_BUCKET</key>
+	<string>youthbit-377523.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:753109830273:ios:14adf9ed3d114ef8229b80</string>
+</dict>
+</plist>
